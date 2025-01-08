@@ -7,9 +7,9 @@
       {
         "chipFamily": "ESP32",
         "parts": [
-          { "path": "bootloader.bin", "offset": 1000 },
-          { "path": "partitions.bin", "offset": 8000 },
-          { "path": "firmware.bin", "offset": 10000 }
+          { "path": "https://github.com/ProjectDeskMate/web/raw/refs/heads/main/bootloader.bin", "offset": 1000 },
+          { "path": "https://github.com/ProjectDeskMate/web/raw/refs/heads/main/partitions.bin", "offset": 8000 },
+          { "path": "https://github.com/ProjectDeskMate/web/raw/refs/heads/main/firmware.bin", "offset": 10000 }
         ]
       }
     ]
