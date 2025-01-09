@@ -1,7 +1,7 @@
 {
-    "name": "ESPHome",
-    "version": "2021.10.3",
-    "home_assistant_domain": "esphome",
+    "name": "test",
+    "version": "V21",
+    "home_assistant_domain": "hello",
     "funding_url": "https://esphome.io/guides/supporters.html",
     "builds": [
       {
